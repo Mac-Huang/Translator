@@ -1,0 +1,40 @@
+{"time":"2024-11-05T22:44:58.4501739+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T22:44:58.4501739+08:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20241105_224458-afeziqkf\\logs\\debug-core.log"}
+{"time":"2024-11-05T22:44:58.5866842+08:00","level":"INFO","msg":"created new stream","id":"afeziqkf"}
+{"time":"2024-11-05T22:44:58.5866842+08:00","level":"INFO","msg":"stream: started","id":"afeziqkf"}
+{"time":"2024-11-05T22:44:58.5866842+08:00","level":"INFO","msg":"sender: started","stream_id":"afeziqkf"}
+{"time":"2024-11-05T22:44:58.5866842+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"afeziqkf"}}
+{"time":"2024-11-05T22:44:58.5866842+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"afeziqkf"}}
+{"time":"2024-11-05T22:45:14.8692117+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T22:45:26.2977242+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:46:10.9081736+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:46:23.5829507+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:46:39.0590713+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:46:59.2608218+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:47:28.2164573+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:47:41.2660989+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:47:56.5930694+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:48:16.3461899+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:48:43.3580979+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:49:46.4276166+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:49:59.2969882+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:50:15.0223284+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:50:35.0329821+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:51:02.1788302+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:52:06.1941618+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:52:19.5141811+08:00","level":"INFO","msg":"stream: closing","id":"afeziqkf"}
+{"time":"2024-11-05T22:52:19.5141811+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T22:52:19.5141811+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T22:52:20.7277632+08:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-05T22:52:20.7277632+08:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-05T22:52:20.7277632+08:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-05T22:52:23.4283066+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T22:53:16.7267716+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:54:27.2185531+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:56:00.9260686+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": read tcp 192.168.10.103:62807->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-11-05T22:56:24.1979734+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-11-05T22:56:38.7639465+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mac-huang-university-of-shanghai-for-science-and-technology/Machine%20Translation/afeziqkf/file_stream\": EOF"}
+{"time":"2024-11-05T22:56:56.1643412+08:00","level":"INFO","msg":"sender: closed","stream_id":"afeziqkf"}
+{"time":"2024-11-05T22:56:56.1643412+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"afeziqkf"}}
+{"time":"2024-11-05T22:56:56.1643412+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"afeziqkf"}}
+{"time":"2024-11-05T22:56:56.1648473+08:00","level":"INFO","msg":"stream: closed","id":"afeziqkf"}

@@ -1,0 +1,19 @@
+D:\Anaconda\envs\nlp\lib\site-packages\pytorch_lightning\callbacks\model_checkpoint.py:654: Checkpoint directory D:\Internship\Apple\Week3\Translation_v1.0\checkpoints exists and is not empty.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name    | Type             | Params | Mode
+-----------------------------------------------------
+0 | model   | Transformer      | 92.5 M | train
+1 | loss_fn | CrossEntropyLoss | 0      | train
+-----------------------------------------------------
+92.5 M    Trainable params
+0         Non-trainable params
+92.5 M    Total params
+369.925   Total estimated model params size (MB)
+308       Modules in train mode
+0         Modules in eval mode
+D:\Anaconda\envs\nlp\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:419: Consider setting `persistent_workers=True` in 'train_dataloader' to speed up the dataloader worker initialization.
+Epoch 9: 100%|████████████████████████████████████████████████████████████████████████████████████████████████| 64/64 [00:25<00:00,  2.54it/s, v_num=006i]
+D:\Anaconda\envs\nlp\lib\site-packages\pytorch_lightning\callbacks\model_checkpoint.py:384: `ModelCheckpoint(monitor='val/acc')` could not find the monitored key in the returned metrics: ['train_loss', 'train_loss_step', 'lr-AdamW', 'train_loss_epoch', 'epoch', 'step']. HINT: Did you call `log('val/acc', value)` in the `LightningModule`?
+`Trainer.fit` stopped: `max_epochs=10` reached.
+Training completed.

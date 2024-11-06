@@ -1,0 +1,5 @@
+# Ignore all files in checkpoints folder
+checkpoints/*
+
+# Exclude specific files if needed
+# !checkpoints/last.ckpt

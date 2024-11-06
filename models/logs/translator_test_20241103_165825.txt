@@ -1,0 +1,25 @@
+=== Translator Test Log (20241103_165825) ===
+
+Batch size: 32
+Source sequence length: 512
+Target sequence length: 512
+
+=== Input Shapes and Types ===
+src_input_ids: shape=torch.Size([32, 512]), dtype=torch.int64
+tgt_input_ids: shape=torch.Size([32, 512]), dtype=torch.int64
+src_mask: shape=torch.Size([32, 1, 512]), dtype=torch.bool
+tgt_mask: shape=torch.Size([32, 1, 512]), dtype=torch.bool
+tgt_subsequent_mask: shape=torch.Size([1, 511, 511]), dtype=torch.bool
+
+=== Sample Values ===
+src_input_ids (first 5 elements):
+tensor([51114,  3051, 52110,  6272, 87128])
+
+tgt_input_ids (first 5 elements):
+tensor([ 59927,  70521,  27000,  87226, 101407])
+
+Combined mask (5x5 sample):
+
+=== Error Occurred ===
+Error type: IndexError
+Error message: too many indices for tensor of dimension 3
